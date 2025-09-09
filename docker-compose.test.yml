@@ -1,0 +1,4 @@
+include:
+  - path:
+      - ./docker/compose/docker-compose.auth.yml
+      - ./docker/compose/docker-compose.auth.test.override.yml
